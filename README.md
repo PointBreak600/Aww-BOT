@@ -1,6 +1,6 @@
 # Aww-BOT
 
-Welcome to Aww-BOT, a simple bot made using discord.js. Aww-BOT pulls posts from https://www.reddit.com/r/aww/ and displays them to you.
+Welcome to Aww-BOT, a simple bot made using discord.js. Aww-BOT pulls posts from https://www.reddit.com/r/aww/ and displays them in your Discord server.
 
 ## Setup
 
@@ -23,8 +23,6 @@ cd Aww-BOT
 ```bash
 cp .env.example .env
 ```
-
-5. Fill in `BOT_TOKEN` with your bot token.
 
 ## Run
 
